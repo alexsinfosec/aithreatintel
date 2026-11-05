@@ -3,6 +3,8 @@ layout: default
 ---
 
 <dl>
+<dt>October 20, 2026</dt>
+<dd>NorForge researcher, Snorre Fagerland, discovers Chinese-speaking threat actor using AI platform Cairn to successfully break into more than 100 company websites. </dd>
 <dt>October 19, 2026</dt>
 <dd>OpenCode announces October 17 distillation attacks that impacted users with linked external providers, including Anthropic, OpenAI, and Google. Threat actors accessed API keys in OpenCode's legacy systems as it was being decommissioned; co-founder Dax Raad reports 48 hours of "non-stop" attacks against the company using AI agents. Sources: <a href="https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/">Bleeping Computer</a>, <a href="https://nhimg.org/opencode-console-breach-2026-stored-llm-api-keys" target="_blank">Non-Human Identity Management Group</a></dd>
 <dt>October 14, 2026</dt>
