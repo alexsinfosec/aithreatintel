@@ -3,6 +3,8 @@ layout: default
 ---
 
 <dl>
+<dt>October 21, 2026</dt>
+<dd>LiteLLM v1.107.0 trojanized by unknown attackers; embedded malware can steal cloud and AI credentials, as well as deploy a RAT with RCE capabilities through PyPI and Docker. Attackers injected three malicious files (cook.th, cook.py, sitecustomize.py) into LiteLLM's release pipeline through a spoofed BerriAI repo (github[.]com/Berri-AI-litellm). Source: <a href="https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548" target="_blank">The Register</a></dd>
 <dt>October 20, 2026</dt>
 <dd>NorForge researcher, Snorre Fagerland, discovers Chinese-speaking threat actor using AI harness Cairn to successfully break into more than 100 company websites. The entire campaign cost approximately $5,000, enabling a pipeline that starts with choosing targets (shopping sites), verifying automation feasibility with Microsoft Playwright, then planting a bare file-upload form to establish persistence, with the eventual goal of RCE. Source: <a href="https://www.technology.org/2026/10/20/hacker-ai-agents-cairn-100-websites-deere-sharkninja-cummins/" target="_blank">Technology Org</a></dd>
 <dd style="margin-top: 15px;">Claroc researchers successfully enumerated 6,800 shared Muse conversation links using a single query. They were also able to open the links, finding sensitive information like a loan application, real estate documents with property addresses and mortgage figures, a company's internal revenue review, and more. Source: <a href="https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/" target="_blank">Ars Technica</a></dd>
