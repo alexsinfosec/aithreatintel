@@ -4,7 +4,7 @@ layout: default
 
 <dl>
 <dt>October 7, 2026</dt>
-<dd>Researches from Lumen's Black Lotus Labs discover malware PoeLLM, </dd>
+<dd>Lumen Technologies' Black Lotus Labs reports the discovery of PoeLLM, first encountered in June, a piece of malware targeting open-source AI services that uses a poem posted on GitHub as a dynamic lookup table to form a C2 server address. More than 3,400 servers have reportedly been compromised since April; LiteLLM, Ollama, Gotenberg, and Gitea were among many tools linked to an exploit-scanning and cryptocurrency-mining botnet. AI model abuse, RCE, and downstream compromise of public-facing services are also risks. Source: <a href="https://cyberscoop.com/poellm-malware-botnet-poem-lumen-black-lotus-labs/" target="_blank">CyberScoop</a></dd>
 <dt>October 6, 2026</dt>
 <dd>President Lee Jae Myung of South Korea announces probe into at least seven major financial institutions across the country, including Hana Bank, KB Kookmin Bank, and Shinhan Bank. Officials cite Artex AI as the suspected tool used by threat actors, and reports say at least 68,000 people were breached. Source: <a href="https://therecord.media/south-korean-bank-hacks-ai-agents" target="_blank">The Record</a></dd>
 <dt>September 30, 2026</dt>
