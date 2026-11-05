@@ -3,6 +3,8 @@ layout: default
 ---
 
 <dl>
+<dt>October 6, 2026</dt>
+<dd>President Lee Jae Myung of South Korea announces probe into at least seven major financial institutions across the country, including Hana Bank, KB Kookmin Bank, and Shinhan Bank. Officials cite Artex AI as the suspected tool used by threat actors, and reports say at least 68,000 people were breached.</dd>
 <dt>September 30, 2026</dt>
 <dd>The Dutch Institute for Vulnerability Disclosure (DIVD) provides details on September 29 AI agent cyberattack, which possibly exploited a chain of two zero-day vulnerabilities in open-source ticketing system, Zammad. The flaws are identified as CVE-2026-102489 and CVE-2026-102490, and together may result in session hijacking, RCE, and privilege escalation. Source: <a href="https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/" target="_blank">Bleeping Computer</a></dd>
 <dt>September 28, 2026</dt>
