@@ -3,6 +3,8 @@ layout: default
 ---
 
 <dl>
+<dt>October 27, 2026</dt>
+<dd>Warp ADE agent decision logs and telemetry data exposed in supply chain attack allegedly powered by "an agent swarm", affecting roughly 1% of users. Source: <a href="https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/" target="_blank">Bleeping Computer</a></dd>
 <dt>October 24, 2026</dt>
 <dd>Symantec Threat Hunter Team honeypot captures AI agent built to hijack exposed AI models to carry out autonomous attacks, including database theft, credential theft, RCE, and cryptomining. It scans the "entire internet" for endpoints that accept stolen keys or unauthenticated OpenAI-style requests; "Skynet mode" allows it to carry out up to 100,000 steps without human approval. Source: <a href="https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215" target="_blank">The Register</a></dd>
 <dt>October 22, 2026</dt>
