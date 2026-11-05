@@ -3,6 +3,8 @@ layout: default
 ---
 
 <dl>
+<dt>October 24, 2026</dt>
+<dd>Symantec Threat Hunter Team honeypot captures AI agent built to hijack exposed AI models to carry out autonomous attacks, including database theft, credential theft, RCE, and cryptomining. It scans the "entire internet" for endpoints that accept stolen keys or unauthenticated OpenAI-style requests; "Skynet mode" allows it to carry out up to 100,000 steps without human approval. Source: <a href="https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215" target="_blank">The Register</a></dd>
 <dt>October 22, 2026</dt>
 <dd>Microsoft names China-aligned threat actor group Storm-0940 behind ARTEX-enabled automated attacks against Microsoft 365 environments; the attackers used compromised ConnectWise application credentials to exploit granted permissions. ARTEX enablement resulted in 2,000+ attempts per minute, compressing the kill chain to under 3 hours in some instances; persistent privilege had been established in numerous organizations. Source: <a href="https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687" target="_blank">The Register</a></dd>
 <dt>October 21, 2026</dt>
