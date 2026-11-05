@@ -3,6 +3,8 @@ layout: default
 ---
 
 <dl>
+<dt>October 22, 2026</dt>
+<dd>Microsoft names China-aligned threat actor group Storm-0940 behind ARTEX-enabled automated attacks against Microsoft 365 environments, compressing the kill chain to under 3 hours in some instances. The attackers used compromised ConnectWise application credentials to exploit granted permissions; ARTEX enablement resulted in 2,000+ attempts per minute, and persistent privilege had been established in numerous organizations. Source: <a href="https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687" target="_blank">The Register</a></dd>
 <dt>October 21, 2026</dt>
 <dd>LiteLLM v1.107.0 trojanized by unknown attackers; embedded malware can steal cloud and AI credentials, as well as deploy a RAT with RCE capabilities through PyPI and Docker. Attackers injected three malicious files (cook.th, cook.py, sitecustomize.py) into LiteLLM's release pipeline through a spoofed BerriAI repo (github[.]com/Berri-AI-litellm). Source: <a href="https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548" target="_blank">The Register</a></dd>
 <dt>October 20, 2026</dt>
