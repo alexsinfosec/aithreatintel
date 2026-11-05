@@ -4,7 +4,7 @@ layout: default
 
 <dl>
 <dt>October 19, 2026</dt>
-<dd>OpenCode announces October 17 distillation attacks, which use unauthorized queries to train smaller models, that impacted users with linked external providers, including Anthropic, OpenAI, and Google. Co-founder Dax Raad reports 48 hours of "non-stop" attacks against the company using AI agents. Source: <a href="https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134" target="_blank">Bleeping Computer</a></dd>
+<dd>OpenCode announces October 17 distillation attacks that impacted users with linked external providers, including Anthropic, OpenAI, and Google. Threat actors accessed API keys in OpenCode's legacy systems as it was being decommissioned, and co-founder Dax Raad reports 48 hours of "non-stop" attacks against the company using AI agents. Sources: <a href="https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/)">Bleeping Computer</a>, <a href="https://nhimg.org/opencode-console-breach-2026-stored-llm-api-keys" target="_blank">Non-Human Identity Management Group</a></dd>
 <dt>October 14, 2026</dt>
 <dd>Xbow researchers use OpenAI's GPT-5.6 Sol model and $40,000 in API costs to chain three Chrome zero-day vulnerabilities–a V8 compiler bug, an animated-WebP decoder bug, and a memory-safety bug–into a working sandbox escape on a Windows host. Source: <a href="https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134" target="_blank">The Register</a></dd>
 <dt>October 8, 2026</dt>
