@@ -4,7 +4,10 @@ layout: default
 
 <dl>
 <dt>October 14, 2026</dt>
-<dd>Xbow researchers use OpenAI's GPT-5.6 Sol model and $40,000 in API costs to chain three Chrome zero-day vulnerabilities–a V8 compiler bug, an animated-WebP decoder bug, and a memory-safety bug–into a working sandbox escape on a Windows host. Source: <a href="https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134" target="_blank">The Register</a></dd>
+<dd>Xbow researchers use OpenAI's GPT-5.6 Sol model and $40,000 in API costs to chain three Chrome zero-day vulnerabilities–a V8 compiler bug, an animated-WebP decoder bug, and a memory-safety bug–into a working sandbox escape on a Windows host. Source: <a href="https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134" target="_blank">The Register</a>
+
+Test new line
+</dd>
 <dt>October 8, 2026</dt>
 <dd>Shai-Hulud worm, credential-stealing malware, infects the Tensorlake SDK v0.5.114 npm package. It steals crypto wallets, browser passwords, cloud credentials, and more for data exfiltration without disconnecting from its C2 infrastructure. This specific variant can also delete the infected user's home directory if certain GitHub tokens get revoked. Source: <a href="https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054" target="_blank">The Register</a></dd>
 <dt>October 7, 2026</dt>
