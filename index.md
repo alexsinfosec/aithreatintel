@@ -3,6 +3,8 @@ layout: default
 ---
 
 <dl>
+<dt>October 8, 2026</dt>
+<dd>Shai-Hulud worm, credential-stealing malware, infects Tensorlake SDK v0.5.114 npm package. It steals crypto wallets, browser passwords, cloud credentials, and more for data exfiltration without disconnecting from its C2 infrastructure. This specific variant can also delete the infected user's home directory if certain GitHub tokens get revoked.Source: <a href="https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054" target="_blank">The Register</a></dd>
 <dt>October 7, 2026</dt>
 <dd>Lumen Technologies' Black Lotus Labs reports the discovery of PoeLLM, first encountered in June, a piece of malware targeting open-source AI services that uses a poem posted on GitHub as a dynamic lookup table to form a C2 server address. More than 3,400 servers have reportedly been compromised since April; LiteLLM, Ollama, Gotenberg, and Gitea were among many tools linked to an exploit-scanning and cryptocurrency-mining botnet. AI model abuse, RCE, and downstream compromise of public-facing services are also risks. Source: <a href="https://cyberscoop.com/poellm-malware-botnet-poem-lumen-black-lotus-labs/" target="_blank">CyberScoop</a></dd>
 <dt>October 6, 2026</dt>
