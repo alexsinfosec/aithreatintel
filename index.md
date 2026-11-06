@@ -4,7 +4,7 @@ layout: default
 
 <dl>
 <dt>November 2, 2026</dt>
-<dd>Chinese threat actors Vapor Panda have been using ARTEX in password spraying attacks and credential scanning against 200+ organizations across 14 countries since October; targets include telecom providers and pharmaceutical, semiconductor, defense, nuclear, and financial organizations.<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/" target="_blank">Bleeping Computer</a></dd>
+<dd>Chinese threat actors Vapor Panda have been using ARTEX in password spraying attacks and credential scanning against 200+ organizations across 14 countries since October; targets include telecom providers and pharmaceutical, semiconductor, defense, nuclear, and financial organizations. Source: <a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/" target="_blank">Bleeping Computer</a></dd>
 <dt>October 27, 2026</dt>
 <dd>Warp ADE agent decision logs and telemetry data exposed in supply chain attack allegedly powered by "an agent swarm", affecting roughly 1% of users. Source: <a href="https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/" target="_blank">Bleeping Computer</a></dd>
 <dt>October 24, 2026</dt>
